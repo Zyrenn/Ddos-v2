@@ -59,7 +59,7 @@ Contoh: python3 etek.py -u 130.55.98.1 -p 80 -t 135
 ```pl
 Jika Hasilnya Server Tumbang Maka Serangan DoS Anda Berhasil.
 Jabat Tangan!!
-Tetapi Beberapa Situs Web Memblokir Ip Anda
+Tetapi Beberapa Situs Web Mungkin Memblokir Ip Anda
 Selamat DoSing!
 -----END------
 ```
